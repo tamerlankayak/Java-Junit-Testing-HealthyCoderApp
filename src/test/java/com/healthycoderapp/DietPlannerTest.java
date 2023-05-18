@@ -14,7 +14,7 @@ class DietPlannerTest {
     void setup() {
         this.dietPlanner = new DietPlanner(20, 30, 50);
     }
-
+    //code working after each unit test method
     @AfterEach
     void afterEach() {
         System.out.println("A unit test was finished.");
