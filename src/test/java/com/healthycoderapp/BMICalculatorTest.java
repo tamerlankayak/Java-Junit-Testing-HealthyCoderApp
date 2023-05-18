@@ -12,6 +12,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class BMICalculatorTest {
 
+    //before all operations woring this method
     @BeforeAll
     static void beforeAll() {
         System.out.println("Before all unit tests.");
