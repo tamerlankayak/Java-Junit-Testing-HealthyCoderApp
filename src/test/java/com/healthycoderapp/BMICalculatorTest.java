@@ -17,7 +17,7 @@ class BMICalculatorTest {
     static void beforeAll() {
         System.out.println("Before all unit tests.");
     }
-
+    //afterAll method working end of all operations
     @AfterAll
     static void afterAll() {
         System.out.println("After all unit tests.");
