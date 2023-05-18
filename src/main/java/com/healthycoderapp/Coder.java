@@ -1,5 +1,5 @@
 package com.healthycoderapp;
-
+//model example for bmi paramaeters of person
 public class Coder {
 	
 	private double height;
