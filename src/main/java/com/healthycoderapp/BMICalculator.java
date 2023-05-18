@@ -16,6 +16,7 @@ public class BMICalculator {
     }
 
     public static Coder findCoderWithWorstBMI(List<Coder> coders) {
+        //using stream for find value
         return coders
                 .stream()
                 .sorted(Comparator.comparing(BMICalculator::calculateBMI))
