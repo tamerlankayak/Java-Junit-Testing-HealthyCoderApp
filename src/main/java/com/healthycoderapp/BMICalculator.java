@@ -2,7 +2,7 @@ package com.healthycoderapp;
 
 import java.util.Comparator;
 import java.util.List;
-
+//the class calculating bmi
 public class BMICalculator {
 
     private static final double BMI_THRESHOLD = 25.0;
