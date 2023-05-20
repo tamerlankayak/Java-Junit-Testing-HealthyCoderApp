@@ -4,7 +4,7 @@ This project serves as a demonstration of JUnit for automated unit testing in Ja
 
 ## Getting Started
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/tamerlankayak/Java-Junit-Testing-HealthyCoderApp.git`
 2. Open the project in your preferred Java IDE.
 3. Navigate to the test directory to explore the JUnit test cases.
 4. Run the test cases to observe the results.
@@ -17,9 +17,7 @@ The test cases are organized into logical groups, each verifying a specific func
 
 Contributions, bug reports, and feature requests are welcome! If you encounter any issues or have suggestions for improvements, please submit them via the issue tracker.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 
 
